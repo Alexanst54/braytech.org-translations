@@ -189,7 +189,7 @@
       "Text": "Authentifiez-vous avec Bungie.net pour voir votre liste d'amis Bungie ici ! C'est un raccourci pratique pour voir qui est en ligne et consulter les profils des autres !"
     },
     "Dresstiny": {
-      "Text": "🦘 Authenticate with Bungie.net to create and manage your Dresstiny fits!"
+      "Text": "🦘 "Authentifiez-vous avec Bungie.net pour gérer vos meilleurs Dresstiny!"
     },
     "Login": "Se connecter avec Bungie.net",
     "Memberships": {
@@ -366,12 +366,12 @@
     "Error": "Erreur",
     "Episode": "🦘 Episode",
     "EpisodeNth": "🦘 Episode {{number}}",
-    "EpisodeEndsIn": "🦘 Episode {{number}}: ends in {{duration}}",
+    "EpisodeEndsIn": "🦘 Episode {{number}}: se termine dans {{duration}}",
     "Event": "Évènement",
     "EventNth": "1 évènement",
     "EventNth_plural": "{{count}} évènements",
     "Examples": "Exemples",
-    "Exotic": "🦘 Exotic",
+    "Exotic": "🦘 Exotique",
     "Experience": "🦘 Experience",
     "Expiration": "Expiration",
     "Expired": "Expiré",
@@ -380,9 +380,9 @@
     "FeaturedEvent": "Évènement en cours",
     "FeaturedNightfall": "Nuit noire actuelle",
     "FeaturedPlaylist": "Activité PVP actuelle",
-    "Filter": "🦘 Filter",
-    "Filter_plural": "🦘 Filters",
-    "FiltersApplied": "🦘 Filters Applied",
+    "Filter": "🦘 Filtre",
+    "Filter_plural": "🦘 Filtres",
+    "FiltersApplied": "🦘 Filtres Appliqués",
     "Fireteam": "Escouade",
     "Fireteam_plural": "Escouades",
     "FireteamMembers": "Membres d'escouade",
@@ -394,7 +394,7 @@
     "GuardianRank": "Rang de Gardien",
     "Guardians": "Gardiens",
     "Help": "Aide",
-    "Highlight": "🦘 Highlight",
+    "Highlight": "🦘 Mettre en surbillance",
     "HistoricalStats": "Stats historiques",
     "InfamyPoints": "Points d'Infamie",
     "Inspect": "Inspecter",
@@ -405,9 +405,9 @@
     "LoadoutSlotPreview": "Aperçu de l'emplacement d'équipement {{number}}",
     "Slot": "Emplacement {{number}}",
     "LevelNth": "Niveau {{number}}",
-    "LikeNth": "🦘 **1** Like",
-    "LikeNth_plural": "🦘 **{{number}}** Likes",
-    "Like_plural": "🦘 Likes",
+    "LikeNth": "🦘 **1** J'aime",
+    "LikeNth_plural": "🦘 **{{number}}** J'aimes",
+    "Like_plural": "🦘 J'aimes",
     "Location": "Position",
     "Lore": "Légende",
     "LoreBook": "Livre de Légendes",
@@ -432,11 +432,11 @@
     "Rank_plural": "Rangs",
     "Rarity": "Rareté",
     "Recent": "Récent",
-    "Redacted": "🦘 Redacted",
-    "Report_plural": "Reports",
+    "Redacted": "🦘 Censuré",
+    "Report_plural": "Rapports",
     "Reputation": "Réputation",
     "Reset": "Réinitialisation",
-    "Reset_plural": "🦘 Resets",
+    "Reset_plural": "🦘 Réinitialisation",
     "Reward": "Récompense",
     "Reward_plural": "Récompenses",
     "Savathûn'sCurse": "Malédiction de Savathûn",
@@ -456,7 +456,7 @@
     "Source": "Source",
     "SpecialCommendationAbr_plural": "Éloges spéc.",
     "SpecialCommendation_plural": "Éloges spéciales",
-    "Statistics": "🦘 Statistics",
+    "Statistics": "🦘 Statistiques",
     "Submit": "Envoyer",
     "Support": "Assistance",
     "TimePlayed": "Temps de jeu",
@@ -473,9 +473,9 @@
     "LegacyTriumphs": "Triomphes classiques",
     "Unknown": "Inconnu",
     "Year": "Année",
-    "You": "🦘 You",
+    "You": "🦘 Vous",
     "Users": "Utilisateurs",
-    "Username": "🦘 Username",
+    "Username": "🦘 Pseudo",
     "ValorPoints": "Points de courage",
     "VanguardPoints": "Points de l'Avant-Garde",
     "Vendor": "Marchand",
@@ -488,35 +488,36 @@
     "XP": "🦘 {{number}} XP"
   },
   "Dresstiny": {
-    "Fit": "🦘 Fit",
-    "Fit_plural": "🦘 Fits",
-    "Popular": "🦘 Popular",
+    "Fit": "🦘 Apparence",
+    "Fit_plural": "🦘 Apparences",
+    "Popular": "🦘 Populaire",
     "CreateFit": {
-      "Name": "🦘 Create",
-      "Description": "🦘 Create a new fit based on your equipment or fantasy."
+      "Name": "🦘 Créer",
+      "Description": "🦘 Créez une nouvelle apparance depuis votre équipement ou de zéro."
     },
     "AlterFit": {
-      "Name": "🦘 Alter",
-      "Description": "🦘 Alter an existing fit and pull tight any loose threads."
+      "Name": "🦘 Modifier",
+      "Description": "🦘 Modifiez une apparance existante et faites quelques ."
     },
     "Form": {
       "Loadout": {
-        "Info": "🦘 Adjust your equipment in game before creating a fit. It may take some time for the API to reflect your changes."
+        "Info": "🦘 Ajustez votre apparance dans le jeu avant de la créer. Il faudra peut-être quelque temps pour que l'API reflète vos modifications."
       },
       "Name": {
-        "Info": "🦘 An original name befitting your unmatched beauty, cutesieness, and machismo.",
+        "Info": "🦘 Un nom original à la hauteur de votre beauté incomparable, de votre gentillesse et de votre charisme.",
         "Placeholder": "🦘 <name>"
       },
       "Description": {
-        "Info": "🦘 Descriptions are optional and should be 256 characters or fewer.",
+        "Info": "🦘 Les descriptions sont facultatives et doivent comporter 256 caractères ou moins.",
         "Placeholder": "🦘 <description>"
       },
       "Screenshot": {
-        "Info": "🦘 Screenshots should be captured from the \"Customize Appearance\" screen in-game. Screenshots must be captured at 16:9, 21:9, or 32:9 aspect ratios (i.e. 1920 x 1080), be less than 3 megabytes in size, and be in JPEG format. Place your cursor in the bottom middle for best results. Any deviations from these guidelines may result in your fit failing approval.",
+        "Info": "🦘 Les Captures d'écran peuvent être prises depuis \"Personalisation de l'Apparence\". 
+Les captures d'écran doivent être réalisées aux formats 16:9, 21:9 ou 32:9 (soit 1920 x 1080), d'une taille inférieure à 3 mégaoctets et au format JPEG. Pour un résultat optimal, placez votre curseur en bas au milieu. Tout écart à ces consignes peut entraîner le rejet de votre demande de publication.",
         "Placeholder": "🦘 <screenshot>"
       },
       "Url": {
-        "Info": "🦘 Include a link to your Reddit r/DestinyFashion post.",
+        "Info": "🦘 Inclure un lien reddit r/DestinyFashion.",
         "Placeholder": "🦘 <url> [optional]"
       }
     },
@@ -530,21 +531,21 @@
         "Name": "🦘 Likes"
       },
       "Members": {
-        "Info": "🦘 The force behind this whirlwind of trendsetting fashion. Every one of them, a trendsetter.",
+        "Info": "🦘 La force derrière ce tourbillon de mode avant-gardiste. Chacun d'entre eux est un avant-gardiste.",
         "Name": "🦘 Members"
       },
       "ClassDistribution": {
-        "Info": "🦘 It's a popularity contest–this is how it's won.",
+        "Info": "🦘 C'est un concours de popularité, voici comment on le gagne.",
         "Name": "🦘 Class Distribution"
       }
     }
   },
   "Sorted": {
-    "Completion": "🦘 Sorted by **Completion**",
-    "Name": "🦘 Sorted by **Name**",
-    "Expiry": "🦘 Sorted by **Expiry**",
-    "User": "🦘 Sorted by **User**",
-    "None": "🦘 Unsorted"
+    "Completion": "🦘 Filtré par **Completion**",
+    "Name": "🦘 Filtré par **Name**",
+    "Expiry": "🦘 Filtré par **Expiry**",
+    "User": "🦘 Filtré par **User**",
+    "None": "🦘 Non filtré"
   },
   "GettingStarted": {
     "Header": {
