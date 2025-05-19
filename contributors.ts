@@ -119,6 +119,11 @@ const contributors = [
     membershipType: 6,
     membershipId: '4611686018529845456', // Lunairayz
   },
+  {
+    language: 'fr',
+    membershipType: 3,
+    membershipId: '4611686018523435689', // Lunairayz
+  }
 ];
 
 export default contributors;
